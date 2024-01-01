@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SECRET/static/css/main.a57437c4.css",
+    "main.js": "/SECRET/static/js/main.0614fee9.js",
+    "index.html": "/SECRET/index.html",
+    "main.a57437c4.css.map": "/SECRET/static/css/main.a57437c4.css.map",
+    "main.0614fee9.js.map": "/SECRET/static/js/main.0614fee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a57437c4.css",
+    "static/js/main.0614fee9.js"
+  ]
+}
